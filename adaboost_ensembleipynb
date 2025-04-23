@@ -13,7 +13,7 @@
    "id": "8e81f7fe-1674-4d68-991b-f240db81b075",
    "metadata": {},
    "source": [
-    "PA4 by Wilson Franz Bolo (2019-12031)\n",
+    "PA4 by Wilson Franz Bolo\n",
     "\n",
     "**Notes**:\n",
     "- AdaBoost parts should take a total of around 20 minutes (based on previous runs: ~8 mins each for the dataset)\n",
